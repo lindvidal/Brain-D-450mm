@@ -1,3 +1,3 @@
 /Scripts e Dados/1 - Organized data gauge
-/Scripts e Dados/.gitignore
-/Scripts e Dados/.vscode
+.vscode/settings.json
+.gitignore
