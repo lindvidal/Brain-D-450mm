@@ -1,0 +1,13 @@
+{
+  "thresholds": {
+    "upper": 450.0,
+    "lower": 0.0,
+    "extreme_event": 200.0
+  },
+  "units": "mm/day",
+  "description": {
+    "upper": "Limite máximo plausível de precipitação diária",
+    "lower": "Limite mínimo possível de precipitação diária",
+    "extreme_event": "Limiar para classificar chuvas extremas"
+  }
+}
