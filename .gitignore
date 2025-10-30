@@ -3,3 +3,4 @@
 /Scripts e Dados/figures/
 /Scripts e Dados/5 - results/
 .gitignore
+*.pdf
