@@ -2,7 +2,9 @@
 .vscode/settings.json
 /Scripts e Dados/figures/
 /Scripts e Dados/5 - results/
-.gitignore
+.agentrules
+GEMINI.md
+/.github/
 *.pdf
 /tests/
 /docs/
